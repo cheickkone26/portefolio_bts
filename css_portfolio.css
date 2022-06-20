@@ -1,0 +1,288 @@
+body{
+	background-image: url("blanc2.jpg");
+}
+.nav-link{
+	color:white;
+	text-decoration: none;
+	padding: 1px;
+	margin:20px;
+	font-family: 'Overpass', sans-serif;
+	float: right;
+}
+.navigation2{
+	background-color: black;
+	height: 130px;
+	font-family: 'Overpass', sans-serif;
+}
+.moncv{
+	padding-top: 150px;
+	font-size: 60px;
+	font-family: inter;
+	height: 160px;
+
+}
+.dw-cv{
+	border: 1px solid black;
+	margin-left: 300px;
+	padding: 13px;
+	text-decoration: none;
+	background-color: #22767e;
+	color: black;
+	border-radius: 10px;
+	font-family: noto sans;
+}
+
+.formulaire{
+	display: flex;
+	flex-direction: column;
+	font-family: raleway;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+form div {
+	margin-bottom: 30px;
+	margin-left: 604px;
+	margin-right: 30px;
+	width: 300px;
+	
+}
+.cm{
+	
+	font-family: Aldrich;
+	font-size: 30px;
+	margin-top: 20px;
+
+}
+.submit{
+	padding: 10px;
+	color: white;
+	background-color: black;
+	border-color: red;
+	text-decoration: none;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	font-family: 'Karla', sans-serif;
+
+
+}
+.entete{
+	padding-top: 180px;
+	height: 520px;
+	font-family: Overpass;
+	font-size: 80px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+	background-image: url("boule2.jpg");
+	margin-bottom: 110px;
+	
+	
+	
+}
+.titre-presentation, .titre-passion, .titre-atout, .titre-competence{
+	font-family: inter;
+	text-align: center;
+	font-size: 50px;
+	letter-spacing: 4px;
+
+}
+
+.presentation, .passion, .atout, .competence{
+	margin-bottom: 30px;
+	margin-left: 100px;
+	margin-right: 80px;
+	padding: 30px;
+	text-align: justify;
+	width: 22em;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: 25px;
+	font-family: 'Anek Malayalam', sans-serif;
+}
+
+.bienvenue{
+	margin-top: 100px;
+	color:  white;
+	margin-left: 130px;
+	font-size:100px;
+	margin-right: 250px;
+	height: 10px;
+	text-align: left;
+	margin-bottom: 50px;
+	font-family: 'Overpass', sans-serif;
+	font-size: auto;
+}
+.nav-lien{
+	text-decoration: none;
+	padding: 1px;
+	color:white;
+	margin:20px;
+	max-width: 100px;
+	font-family: 'Overpass', sans-serif;
+}
+.bouton{
+	padding: 20px;
+	background-color: transparent;
+	color: white;
+	border-color: red;
+	text-decoration: none;
+	margin-left: 200px;
+	margin-top: 230px;
+	border-radius: 10px;
+	font-family: inter;
+
+}
+.titre-cv{
+	font-family: inter; 
+	padding-top: 40px;
+	color:black;
+}
+.contenu{
+	font-family: 'Fira Sans', sans-serif;
+	padding-top: 20px;
+	color: black;
+}
+.navigation{
+	padding-top: 20px;
+	padding-bottom: 40px;
+	font-size: auto;
+	padding: auto;
+	float: right;
+	margin-right: 30px;
+	font-family: 'Overpass', sans-serif;
+}
+.ptf{
+	float: left;
+	margin-top: 20px;
+	margin-left: 90px;
+	text-decoration: none; 
+	color:  #900C3F;
+	font-family: komoda;
+	font-size: 80px;
+	border: 2px solid white;
+	border-left: 10px;
+	border-right: 10px;
+	
+}
+
+.cv{
+	padding-top: 40px;
+	color:white;
+	margin-left: 180px;
+	margin-bottom: 60px;
+}
+ .titre-vt{
+ 	font-family: Azonix;
+ 	font-size: 30px;
+ 	margin-left: 100px;
+ 	margin-right: 100px;
+ }
+ .text-vt{
+ 	font-family: orkney;
+ 	margin-left: 100px;
+ 	margin-right: 100px;
+}
+.portfolio{
+	background-image: url("voiture4.jpg");
+}
+
+
+footer{
+    flex-shrink: 0;
+    border-top: 1px dashed #000;
+    width: 100%;
+    background-color: #343737;
+    font-family: cairo;
+    top: 30px;
+    color:white;
+    text-align: center;
+    margin-top: 170px;
+    padding-bottom: 30px;
+    display: flex;
+    text-align: center;
+ }
+
+
+.tesla{
+	height: 270px;
+	width: 450px;
+	vertical-align: middle;
+	float: right;
+}
+
+.icone{
+	width: 25px;
+	height: 25px;
+}
+
+.vt{
+	margin-bottom: 60px;
+
+}
+.vt-va{
+	margin-left: 40px;
+	margin-bottom: 60px;
+	font-family: azonix;
+}
+
+.lexus{
+	width: 1400px;
+	height: 600px;
+	margin-left: 35px;
+}
+
+
+.presentation{
+	width: 400px;
+	max-width: 400px;
+	line-height: 25px;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+    width: 22em;
+    text-align :justify;
+	
+
+}
+
+
+
+.pht{
+	vertical-align: baseline;
+	margin-top: 30px;
+	border-radius: 40%;
+	float: right;
+	width: 300px;
+	height:220px;
+	margin-right: 140px;
+}
+.p1{
+	box-shadow: 10px 5px 5px red;
+	
+}
+.rs{
+	height: 40px;
+}
+.bloc-contact, .bloc-rs{
+	margin : 70px;
+	
+}
+
+.bdp{
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	font-family: 'Fira Sans', sans-serif;
+}
+.titre-form{
+	font-family: 'Karla', sans-serif;
+	margin-top: 20px;
+}
+input{
+	width: 245px;
+	height: 20px;
+}
+.contact{
+	padding-top: 70px;
+}
